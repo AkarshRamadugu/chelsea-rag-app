@@ -67,7 +67,7 @@ The app will open at `http://localhost:8501`.
 
 ## Screenshot
 
-![App Screenshot](screenshots/demo.png)
+<img width="1915" height="986" alt="loading_page" src="https://github.com/user-attachments/assets/0c1aa4c7-f666-4efe-bff4-a461f3937c21" />
 
 ---
 
